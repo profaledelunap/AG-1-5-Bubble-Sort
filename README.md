@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Act 1.1 - Funciones Iterativas, Recursivas y su análisis de Complejidad
+# AG 1.5 Bubble Sort
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
 Después de aceptar la actividad, se generará tu repositorio personal en el que encontrarás el archivo "activity.h". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
