@@ -9,42 +9,17 @@
 #define ACTIVITY_H
 
 // =================================================================
-// sumaIterativa. Calculate the sum from 1 to n with an iterative
-// method.
+// descendingSort. Ordena de manera descendente un vector
+// de elementos tipo enteros.
 //
 // Worst case complexity: O()
 //
-// @param n	The maximum limit of the sum.
-// @return	The result of the addition from 1 to n.
+// @param vec Vector cotaining the set of elements.
+// @return	void
 // =================================================================
-unsigned int sumaIterativa(unsigned int n) {
-	return 0;
-}
-
-// =================================================================
-// sumaRecursiva. Calculate the sum from 1 to n with an recursive
-// method.
-//
-// Worst case complexity: O()
-//
-// @param n	The maximum limit of the sum.
-// @return	The result of the addition from 1 to n.
-// =================================================================
-unsigned int sumaRecursiva(unsigned int n) {
-	return 0;
-}
-
-// =================================================================
-// sumaRecursiva. Calculate the sum from 1 to n with a mathematical
-// method.
-//
-// Worst case complexity: O()
-//
-// @param n	The maximum limit of the sum.
-// @return	The result of the addition from 1 to n.
-// =================================================================
-unsigned int sumaDirecta(unsigned int n) {
-	return 0;
+vector<int> descendingSort(vector<int> vec)
+{
+	return vec;
 }
 
 #endif /* ACTIVITY_H */
